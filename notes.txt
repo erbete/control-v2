@@ -1,0 +1,3 @@
+Listen to process queue cmd: php artisan queue:listen database --queue=processing --timeout=xyz
+
+datagrid component: https://handsontable.com/docs/javascript-data-grid/vue3-installation/?ref=madewithvuejs.com

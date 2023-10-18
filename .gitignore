@@ -1,0 +1,83 @@
+### OSX Vendor Configs ###
+.DS_Store
+*._DS_Store
+._.DS_Store
+*._
+._*
+._.*
+
+### Windows Vendor Configs ###
+Thumbs.db
+
+### Sass ###
+#bower_components/*
+/.sass-cache/*
+.sass-cache
+
+### Editor Configs ###
+*.sublime-workspace
+.idea/*
+/.idea/*
+.phpintel/*
+/.phpintel/*
+/.vscode
+
+### Vagrant/Homestead Vendor Configs ###
+/.vagrant
+Homestead.yaml
+Homestead.json
+
+### Master Configs ###
+.env
+composer.lock
+package-lock.json
+yarn.lock
+
+### Assets ###
+/public/hot
+/public/storage
+/storage/*.key
+/storage/debugbar
+/storage/framework
+/storage/logs
+/storage/users
+packages/
+.phpunit.result.cache
+.env.backup
+
+# Debug Files
+npm-debug.log
+yarn-error.log
+
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.sqlite
+*.sqlite-journal
+!devlogs.sqlite
+
+node_modules
+server/vendor
+server/tests/data/erate/01_dump
+server/tests/data/erate/02_dump
+server/tests/data/dumps
+
+svelte_client

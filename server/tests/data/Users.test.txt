@@ -1,0 +1,31 @@
+ID;ACCOUNT_ID;COMPANY;FIRST_NAME;LAST_NAME;STREET;ADDRESS2;CITY;ZIP;COUNTRY;PHONE1;PHONE2;PHONE3;FAX;EMAIL;EMAIL2;BIRTHDAY;USERNAME;PERSONAL_ID;BRAND_ID
+202203161008496711;202203161008083901;Stortransport AS;Per Yngvar;Eikeskog;Hestehagen 9 B;;Kragerø;3772;;;;;;;;;;;201908
+202203161009120481;202203161008083901;Stortransport AS;Anna;Johansen Vårås;Peder Rindes vei 6;;Sannidal;3766;;;;;;;;;;;201908
+202203161008239791;202203161008083901;Stortransport AS;Alf;Vårås;Peder Rindes vei 6;;Sannidal;3766;;;;;;;;;;;201908
+202203161008331051;202203161008083901;Stortransport AS;Olav;Haug Brendtøy;Kilsveien 39;;Sannidal;3766;;;;;;;;;;;201908
+202203161008557541;202203161008083901;Stortransport AS;Christian;Kittilson;Granliveien 1;;Helle;3790;;;;;;;;;;;201908
+202203161009171921;202203161008083901;Stortransport AS;Sindre;Godag Ludvig;Krokenveien 711;;Neslandsvatn;3760;;;;;;;;;;;201908
+202203161008166741;202203161008083901;Stortransport AS;Åge;Solstad;Telemarksveien 169;;Vegårshei;4985;;;;;;;;;;;201908
+202203161008425221;202203161008083901;Stortransport AS;Alex;Larsen;Kilsveien 31;;Sannidal;3766;;;;;;;;;;;201908
+202203161009203021;202203161008083901;Stortransport AS;Leif Tore;Eide;Peder Rindes vei 15;;Sannidal;3766;;;;;;;;;;;201908
+202203161009018421;202203161008083901;Stortransport AS;Odd;Leifsson;Drangedalsveien 964;;Sannidal;3766;;;;;;;;;;;201908
+202203161009151251;202203161008083901;Stortransport AS;Vigdis;Øveraas;Edvard Munchs vei 7 J;;Kragerø;3770;;;;;;;;;;;201908
+202203161009223681;202203161008083901;Stortransport AS;Roger;Haugen;Torsdalsveien 6;;Sannidal;3766;;;;;;;;;;;201908
+202203161009287761;202203161008083901;Stortransport AS;Tom;Klausen;Ishusbakken 12 B;;Sannidal;3766;;;;;;;;;;;201908
+202203161009255631;202203161008083901;Stortransport AS;Espen;Ødegaard;Løkkebakken 24;;Kragerø;3770;;;;;;espen@stortransport.no;;;;;201908
+202203161008134401;202203161008083901;Stortransport AS;Pål;Tyvand Jordheim;Måneliveien 29;;Helle;3790;;;;;;;;;;;201908
+202203161008260191;202203161008083901;Stortransport AS;Frank;Jørgenson;Hellermyrveien 12;;Stabbestad;3788;;;;;;;;;;;201908
+202203161008300731;202203161008083901;Stortransport AS;Jan;Stein Øygard;Helleveien 149;;Helle;3790;;;;;;;;;;;201908
+202203161008527141;202203161008083901;Stortransport AS;Linn;Farstad;Tveitereidveien 17;;Sannidal;3766;;;;;;;;;;;201908
+202203161008083891;202203161008083901;Stortransport AS;espen;ødegaard;Kragerø Næringspark Krokenveien 133;;sannidal;3766;;95975291;;;;Espen.ØDEGAARD@stortransport.no;;;123_username;927106421;201908
+202203161008207511;202203161008083901;Stortransport AS;Haakon;Knutsen;Ishusbakken 15;;Sannidal;3766;;;;;;;;;;;201908
+202203161008476441;202203161008083901;Stortransport AS;Magnus;Snøås;Holtsvingen 5;;Sannidal;3766;;;;;;;;;;;201908
+202203161009099871;202203161008083901;Stortransport AS;Steinar;Nes;Svenumveien 1;;Sannidal;3766;;;;;;;;;;;201908
+202203161009308261;202203161008083901;Stortransport AS;Finn;Dalene;Skompenveien 1;;Sannidal;3766;;;;;;;;;;;201908
+202203161008404651;202203161008083901;Stortransport AS;Ken;Breiskog;Holtheia 12;;Sannidal;3766;;;;;;;;;;;201908
+202203161008587931;202203161008083901;Stortransport AS;Ann;Hovdegaard;Storkollveien 16;;Kragerø;3772;;;;;;kontor@stortransport.no;;;;;201908
+202203301007347171;202203161008083901;;Mats;Fossen;Rugbråtveiten 17;;Sannidal;3766;NORGE;;;;;;;;;;201908
+202006031246537166;202006031246537161;;Toralf;Gamling;Solheimsveien 11;;Søvik;6280;;42632122;;;;toralf@gamling.no;;1964-04-12;;12046411101;201908
+202006031246537167;202006031246537161;;Toralf;Gamling;Solheimsveien 11;;Søvik;6280;;;;;;;;;;;201908
+202203141645005541;202203141645005542;;Ruben;Steinen;Bulls Vei 2;;Åmot;3340;NORGE;44445232;;;;ru-st@online.no;;;1007111;17045534555;201908
+202203141645005322;202203141645005542;;Ruben;Steinen;Solvegen 100;;Åmot;3340;;;;;;;;;;17045534555;201908

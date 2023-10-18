@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Lexend";
+  src: local("/Lexend"), url(./Lexend.woff2) format("woff2");
+}
+
+/* Jade color for light color scheme (Default) */
+/* Can be forced with data-theme="light" */
+[data-theme=light],
+:root:not([data-theme=dark]) {
+  --pico-font-family: "Lexend", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, var(--pico-font-family-emoji);
+  --pico-text-selection-color: rgba(0, 180, 120, 0.25);
+  --pico-primary: #104732;
+  --pico-primary-background: #104732;
+  --pico-primary-underline: rgba(14, 63, 45, 0.5);
+  --pico-primary-hover: #0E3F2D;
+  --pico-primary-hover-background: #0E3F2D;
+  --pico-primary-focus: rgba(14, 63, 45, 0.5);
+  --pico-primary-inverse: #fff;
+}
+
+/* Azure color for dark color scheme (Auto) */
+/* Automatically enabled if user has Dark mode enabled */
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+  --pico-font-family: "Lexend", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, var(--pico-font-family-emoji);
+    --pico-text-selection-color: rgba(1, 170, 255, 0.1875);
+    --pico-primary: #01aaff;
+    --pico-primary-background: #0172ad;
+    --pico-primary-underline: rgba(1, 170, 255, 0.5);
+    --pico-primary-hover: #79c0ff;
+    --pico-primary-hover-background: #017fc0;
+    --pico-primary-focus: rgba(1, 170, 255, 0.25);
+    --pico-primary-inverse: #fff;
+  }
+}
+
+/* Azure color for dark color scheme (Forced) */
+/* Enabled if forced with data-theme="dark" */
+[data-theme=dark] {
+  --pico-font-family: "Lexend", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, var(--pico-font-family-emoji);
+  --pico-text-selection-color: rgba(1, 170, 255, 0.1875);
+  --pico-primary: #01aaff;
+  --pico-primary-background: #0172ad;
+  --pico-primary-underline: rgba(1, 170, 255, 0.5);
+  --pico-primary-hover: #79c0ff;
+  --pico-primary-hover-background: #017fc0;
+  --pico-primary-focus: rgba(1, 170, 255, 0.25);
+  --pico-primary-inverse: #fff;
+}
